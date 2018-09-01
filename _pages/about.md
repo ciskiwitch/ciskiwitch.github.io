@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ---
 
 Hi! I am currently a PhD student in <a href="https://en.wikipedia.org/wiki/Social_psychology">Social Psychology</a> at the <a href="https://www.usc.edu/">University of Southern California</a>. My two main areas of research are moral psychology and behavior change.
