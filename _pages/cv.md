@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href="/Carol_Iskiwitch_CV_website.pdf">CV</a>
+<a href="/Carol_Iskiwitch_CV_.pdf">Click here to download my CV.</a>
