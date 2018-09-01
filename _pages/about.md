@@ -16,4 +16,4 @@ I study how people think about moral changes. So far, I've explored how people v
 
 Behavior Change
 ======
-I am interested in how people can successfully achieve and maintain behavior changes, particularly for behaviors that are seen as morally-relevant. I am currently investigating the process of changing one's language in socially desirable ways. In this line of research, I work with <a href="http://dornsife.usc.edu/wendy-wood/">Dr. Wendy Wood</a>.
+I am interested in how people can successfully achieve and maintain behavior changes, particularly for behaviors that are seen as morally-relevant. Currently, I am investigating the process of changing one's language in socially desirable ways. In this line of research, I work with <a href="http://dornsife.usc.edu/wendy-wood/">Dr. Wendy Wood</a>.
