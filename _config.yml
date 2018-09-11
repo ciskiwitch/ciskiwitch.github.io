@@ -70,11 +70,8 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :  "google-gtag"
-  google:
-    tracking_id          :  "UA-125668773-1"
+# Google Analytics
+google_analytics: UA-125668773-1
 
 
 # Site Author
