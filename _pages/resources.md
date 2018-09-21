@@ -7,5 +7,5 @@ redirect_from:
   - /markdown.html
 ---
 
-## <a href="https://ciskiwitch.github.io/methods">
+<a href="https://ciskiwitch.github.io/methods">
     Statistics and Methods Resources for Social Scientists </a>
