@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 ## <a href="https://ciskiwitch.github.io/methods">
-    Statistics and Methods Resources for Social Scientists</a>
+    Statistics and Methods Resources for Social Scientists </a>
