@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## Statistics and Methods Resources
  * <a href="https://www.coursera.org/learn/statistical-inferences?action=enroll">
     Improving your statistical inference</a> (free, self-paced course)
  * <a href="http://www-bcf.usc.edu/~gareth/ISL/">
