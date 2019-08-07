@@ -19,7 +19,7 @@ redirect_from:
 <a href="https://www.mindmeister.com/mt/signup">
     Free Project Management Software: MeisterTask </a>
 <ul>
-  <li>Available on web, computer, and mobile
+  <li>Available on web, computer, and mobile</li>
 </ul>
 <br>
 <br>
