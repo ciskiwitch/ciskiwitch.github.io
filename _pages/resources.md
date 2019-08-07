@@ -13,19 +13,19 @@ redirect_from:
 <ul>
   <li>Some of my favorite resources</li>
 </ul>
-<br>
+
 <a href="http://tacit.usc.edu/">
     Text Analysis Made Simple: TACIT</a>
 <ul>
   <li>Free software, with built-in functions for text analysis, web crawling, and corpus management</li>
 </ul>
-<br>
+
 <a href="https://www.mindmeister.com/mt/signup">
     Free Project Management Software: MeisterTask </a>
 <ul>
   <li>Available on web, computer, and mobile</li>
 </ul>
-<br>
+
 <a href="https://www.mindmeister.com/mt/signup">
     Headspace Meditation App- $10/year for Students </a>
 <ul>
