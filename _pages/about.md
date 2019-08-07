@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student and researcher in <a href="https://en.wikipedia.org/wiki/Social_psychology">Social Psychology</a> at the <a href="https://www.usc.edu/">University of Southern California</a>. My main areas of interest are morality and behavior change. Some of the questions I seek to answer in my research include: 
+I am a PhD student and researcher in <a href="https://en.wikipedia.org/wiki/Social_psychology">Social Psychology</a> at the <a href="https://www.usc.edu/">University of Southern California</a>. My main areas of interest are morality and behavior change. I use methods including text analysis, surveys, and experiments to answer questions such as: 
 <br>
 <ul>
   <li>How do people think about transformative experiences?</li>
