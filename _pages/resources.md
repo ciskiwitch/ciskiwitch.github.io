@@ -10,11 +10,15 @@ redirect_from:
 
 <a href="https://ciskiwitch.github.io/methods">
     Statistics and Methods Resources for Social Scientists </a>
-<br>
+<ul>
+  <li>Some of my favorite resources</li>
+</ul>
 <br>
 <a href="http://tacit.usc.edu/">
-    Text Analysis Made Simple: TACIT software </a>
-<br>
+    Text Analysis Made Simple: TACIT</a>
+<ul>
+  <li>Free software, with built-in functions for text analysis, web crawling, and corpus management</li>
+</ul>
 <br>
 <a href="https://www.mindmeister.com/mt/signup">
     Free Project Management Software: MeisterTask </a>
@@ -22,9 +26,8 @@ redirect_from:
   <li>Available on web, computer, and mobile</li>
 </ul>
 <br>
-<br>
 <a href="https://www.mindmeister.com/mt/signup">
     Headspace Meditation App- $10/year for Students </a>
 <ul>
-  <li>If you are new to meditation and don't have access to in-person instruction, the "obstacles" section is useful
+  <li>If you are new to meditation and don't have access to in-person instruction, the "obstacles" section is useful</li>
 </ul>
