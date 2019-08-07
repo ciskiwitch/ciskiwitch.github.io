@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student and researcher in Psychology at the University of Southern California. I work primarily with <a href="http://eccles.utah.edu/team/jesse-graham/">Prof. Jesse Graham</a> studying moral judgments about ourselves and others, and <a href="http://dornsife.usc.edu/wendy-wood/">Prof. Wendy Wood</a> studying the power of habit-building for behavior change.
 
-I use methods including text analysis, surveys, and experiments to answer questions such as: 
+In my research, I combine text analysis, surveys, and experimental techniques to answer questions such as: 
 <br>
 <ul>
   <li>How do people think about the changes they undergo during a transformative experience?</li>
