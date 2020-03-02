@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student and researcher in Psychology at the University of Southern California. I work primarily with <a href="http://eccles.utah.edu/team/jesse-graham/">Prof. Jesse Graham</a> studying moral judgments about ourselves and others, and with <a href="http://dornsife.usc.edu/wendy-wood/">Prof. Wendy Wood</a> studying the role of habit-building in behavior change.
+I am a PhD student and researcher in Psychology at the University of Southern California. I work with <a href="http://eccles.utah.edu/team/jesse-graham/">Prof. Jesse Graham</a> studying moral judgments about ourselves and others, and how those beliefs change. I also work with <a href="http://dornsife.usc.edu/wendy-wood/">Prof. Wendy Wood</a> studying the role of practice and habit-building in behavior change.
 
 In my research, I combine text analysis, surveys, and experimental techniques to answer questions such as: 
 <br>
